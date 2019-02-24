@@ -1,0 +1,106 @@
+xenta-backgrounds-xfce (2.0.0) batik; urgency=medium
+
+  * Pembaruan dan Paket Untuk Xenta OS Xfce
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Sun, 24 Feb 2019 12:39:37 +0700 
+
+mint-backgrounds-xfce (2017.10.27) sylvia; urgency=medium
+
+  * Depend on mint-backgrounds-sylvia
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 27 Oct 2017 15:51:57 +0100
+
+mint-backgrounds-xfce (2017.06.06) sonya; urgency=medium
+
+  * Depend on mint-backgrounds-sonya
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 06 Jun 2017 20:18:14 +0100
+
+mint-backgrounds-xfce (2016.11.05) serena; urgency=medium
+
+  * Depend on mint-backgrounds-serena
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 05 Nov 2016 17:01:54 +0000
+
+mint-backgrounds-xfce (2016.07.12) sarah; urgency=medium
+
+  * Sarah
+  * Updated background
+  * Depends on mint-backgrounds-sarah
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 12 Jul 2016 09:13:22 +0200
+
+mint-backgrounds-xfce (2015.11.13) rosa; urgency=medium
+
+  * Rosa
+  * Updated background
+  * Depends on mint-backgrounds-rosa
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 13 Nov 2015 20:34:40 +0000
+
+mint-backgrounds-xfce (2015.08.04) rafaela; urgency=medium
+
+  * Depend on mint-backgrounds-rafaela
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 04 Aug 2015 13:34:11 +0200
+
+mint-backgrounds-xfce (2015.07.09) rafaela; urgency=medium
+
+  * Rafaela
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 09 Jul 2015 19:05:27 +0200
+
+mint-backgrounds-xfce (2014.12.11) rebecca; urgency=medium
+
+  * Rebecca
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 11 Dec 2014 13:45:42 +0100
+
+mint-backgrounds-xfce (2014.06.09) qiana; urgency=medium
+
+  * Qiana
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 09 Jun 2014 13:52:00 +0100
+
+mint-backgrounds-xfce (2013.12.02) petra; urgency=low
+
+  * Petra
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 02 Dec 2013 10:27:28 +0000
+
+mint-backgrounds-xfce (2013.06.10) olivia; urgency=low
+
+  * Olivia
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 10 Jun 2013 14:37:11 +0100
+
+mint-backgrounds-xfce (2012.10.31) nadia; urgency=low
+
+  * Nadia
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 31 Oct 2012 14:38:39 +0000
+
+mint-backgrounds-xfce (2012.06.21) maya; urgency=low
+
+  * Maya
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 21 Jun 2012 10:53:07 +0100
+
+mint-backgrounds-xfce (2012.03.27) debian; urgency=low
+
+  * Updated backgrounds
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  27 Mar 2012 18:17:00 +0000
+
+mint-backgrounds-xfce (2011.07.30) debian; urgency=low
+
+  * Updated backgrounds
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat,  30 Jul 2011 13:45:00 +0000
+
+mint-backgrounds-xfce (2011.03.29) debian; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  29 Mar 2011 10:52:00 +0000
+

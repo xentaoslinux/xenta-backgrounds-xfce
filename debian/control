@@ -1,0 +1,15 @@
+Source: xenta-backgrounds-xfce
+Section: admin
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaoslinux/xenta-backgrounds-xfce
+Vcs-Browser: https://github.com/xentaoslinux/xenta-backgrounds-xfce.git
+
+Package: xenta-backgrounds-xfce
+Architecture: all
+Depends: xenta-backgrounds-batik
+Description: Paket Wallpaper Default Desktop Xenta OS Edisi Xfce. 
+ Wallpaper Desktop Bawaan untuk Xenta OS Xfce Semua Edisi.
+
